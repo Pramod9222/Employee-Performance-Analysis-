@@ -18,7 +18,7 @@
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/Pramod9222/Employee-Performance-Analysis-)](https://github.com/Pramod9222/Employee-Performance-Analysis-/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Pramod9222/Employee-Performance-Analysis-)](https://github.com/Pramod9222/Employee-Performance-Analysis-/pulls)
 [![GitHub Closed PRs](https://img.shields.io/github/issues-pr-closed/Pramod9222/Employee-Performance-Analysis-)](https://github.com/Pramod9222/Employee-Performance-Analysis-/pulls?q=is%3Apr+is%3Aclosed)
-# [![HitCount](http://hits.dwyl.com/Pramod9222/Employee-Performance-Analysis-.svg)](http://hits.dwyl.com/Pramod9222/Employee-Performance-Analysis-)
+[![HitCount](http://hits.dwyl.com/Pramod9222/Employee-Performance-Analysis-.svg)](http://hits.dwyl.com/Pramod9222/Employee-Performance-Analysis-)
 
 
 
